@@ -1,0 +1,11 @@
+name = input("Wat is uw naam? ")
+adres = input("Wat is uw adres?")
+postcode = input("Wat is uw postcode?")
+woonplaats = input("Wat is uw woonplaats?")
+
+print(" ----------------------------------------------------")
+print("|  Naam      : "+ str(name) +"                       ")
+print("|  Adres     : "+ str(adres) +"                            ")
+print("|  Postcode  : "+ str(postcode) +"                         ")
+print("|  Woonplaats: "+ str(woonplaats) +"                       ")
+print(" ----------------------------------------------------")
